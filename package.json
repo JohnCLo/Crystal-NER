@@ -1,0 +1,13 @@
+{
+  "name": "crystal-NEr",
+  "version": "1.0.0",
+  "engines": {
+    "node": "13.0.0"
+  },
+  "scripts": {
+    "start": "node extract.js"
+  },
+  "dependencies": {
+    "name-recognition": "^1.3.1"
+  }
+}
